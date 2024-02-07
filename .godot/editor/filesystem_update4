@@ -1,0 +1,13 @@
+res://levels/level_001.tscn
+res://environment/WE_test.tres
+res://shaders/psx.gdshader
+res://addons/GoldGdt/Default.tres
+res://shaders/monitor.gdshader
+res://levels/sub_viewport_container.tscn
+res://levels/start_menu.tscn
+res://addons/GoldGdt/Player.tscn
+res://settings/settings_menu.tscn
+res://levels/background music.tscn
+res://global_settings.gd
+res://addons/GoldGdt/PlayerParameters.gd
+res://addons/GoldGdt/GoldGdtMovement.gd

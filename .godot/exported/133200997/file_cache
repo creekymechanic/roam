@@ -1,0 +1,13 @@
+res://controllers/fps_controller.tscn::0bab1c6813892ffd23e04743b4eb98aa::1707215612::res://.godot/exported/133200997/export-6b37916dc8e4f13cd5535f45ba253965-fps_controller.scn
+res://environment/WE_test.tres::e332c9487c596084c492d7e8a7f0f7f9::1707234149::res://.godot/exported/133200997/export-24c474bf083c8a2e05718d5dea039a8a-WE_test.res
+res://levels/level_001.tscn::0252d71afff6463649a45795a737556c::1707232074::res://.godot/exported/133200997/export-7a8dae0c2c5aee1b80f053dd85babed2-level_001.scn
+res://levels/WE_test.tscn::c3ec5270a731035171ffc4c0b6a745d3::1707174318::res://.godot/exported/133200997/export-5644a4b215d13e798ec8c1fc7cbf0030-WE_test.scn
+res://materials/grid.tres::af245d4a0c39e5aa385ca08743ba2eae::1707171500::res://.godot/exported/133200997/export-bb93f32ddaac6a7a78fc3d1773f4ca53-grid.res
+res://materials/player.tres::7299d19ef2499f1793b3f2ebc5e43192::1696441788::res://.godot/exported/133200997/export-d6cf309a37eff9d136e2e40f4da3ff4a-player.res
+res://levels/sub_viewport_container.tscn::4d1097862f9d808c1d323e42513d7699::1707232051::res://.godot/exported/133200997/export-8a543ab1cf27144d7da714ca936bddf8-sub_viewport_container.scn
+res://levels/start_menu.tscn::afb8fc8afbc4cdbd5d39833092894b55::1707234168::res://.godot/exported/133200997/export-a59eac2562682b4e6742f8cd73b68a4e-start_menu.scn
+res://addons/GoldGdt/Default.tres::52036aaa89eb5d385fe0a7aeeea6d98d::1707234149::res://.godot/exported/133200997/export-1dd274c4bae48ec6679de79a203cb91e-Default.res
+res://addons/GoldGdt/Player.tscn::b62a72a4366f8418579c3cd35091d2cc::1707232051::res://.godot/exported/133200997/export-4348431da9887de2a501fff806993e7f-Player.scn
+res://levels/background music.tscn::4caca71484310f80092248377d760526::1707232051::res://.godot/exported/133200997/export-aa303d6c1fd0a0c82010578dadddfaea-background music.scn
+res://settings/settings_menu.tscn::fbcc9278ea4da5a0aa45ef8b948d9719::1707234149::res://.godot/exported/133200997/export-0222926771d0411b57703681e1aa7a21-settings_menu.scn
+res://default_bus_layout.tres::fc3660d1daf92740e4dfe4a05b0bff76::1707227812::res://.godot/exported/133200997/export-19246414aa9fb561ced4b8dce477acec-default_bus_layout.res
